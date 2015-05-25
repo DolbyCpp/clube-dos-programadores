@@ -20,7 +20,7 @@ O grupo pode ser encontrado no *Facebook* neste link [https://www.facebook.com/g
 - [2.8] Perguntas fora da área ou de teor humorístico devem ter a tag **[OFF]**.
 - [2.9] Se sua questão for respondida com sucesso, por favor, adicione a tag **[RESOLVIDO]**.
 - [2.A] Você é livre para postar seu site, *desde que* se relacione ao intuito do grupo.
-- [2.B] Ofertas de emprego são *proibidas*(salvo *freelas*). Existem grupos específicos para isto.
+- [2.B] Ofertas de emprego são **proibidas**(salvo **freelas**). Existem grupos específicos para isto.
 - [2.C] Tópicos com fotos de capivaras são permitidos, capivaras são :heart:.
 
 ### 3. Sobre o bom-senso
