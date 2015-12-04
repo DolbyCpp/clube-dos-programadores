@@ -29,7 +29,7 @@ O grupo pode ser encontrado no *Facebook* neste link [https://www.facebook.com/g
 - [3.2] Não pergunte "alguém sabe X". Sempre alguém saberá (exceto teoria de tipos, porque teoria de tipos não é de Deus). Poste sua dúvida diretamente, sem postar somente quando perguntarem. Isso poupa tempo e nos permite resolver mais rapidamente.
 - [3.3] Ninguém aqui é seu empregado e não vamos dar nenhum código completo para você. Se quer algo pronto, pague um programador para isso.
 - [3.4] Nem todos tem o mesmo conhecimento. Saiba respeitar as diferenças de potencial. Você também não nasceu sabendo.
-- [3.5] Criou um grupo no *Whatsapp*? Divulgue em outro lugar. Iremos publicar seus números em um site de bate-papo *gay* caso o faça.
+- [3.5] Criou um grupo no *Whatsapp*? Peça permissão a um moderador antes de postar.
 - [3.6] É extremamente proibido a divulgação de outros grupos, salvo caso entre em contato com um administador, pedindo permissão.
 - [3.7] Não, não iremos hackear o Facebook de ninguém para você, não insista.
 - [3.8] Erros gramaticais são tolerados, mas não abuse.
